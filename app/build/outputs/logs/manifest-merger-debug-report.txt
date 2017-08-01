@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hanifan\.android\build-cache\0bad42fcbd048128c0a778e42aca702923cebe52\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hanifan\.android\build-cache\f50e202e373a1fc659883b79c799c50a12151577\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hanifan\.android\build-cache\ec8d1fbe396dff7c2744453d1f046adbbbb8fa35\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\hanifan\.android\build-cache\86131719d389d147040640abcb7903da6fb7ad0d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hanifan\.android\build-cache\5b0a16516fb5833c2782517dc2d281ce0e35ed50\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hanifan\.android\build-cache\34ee093747a93822500c4d39233dcf678ccce053\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hanifan\.android\build-cache\ff52d32494d63572bdbf788469b92d704ecb1b94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hanifan\.android\build-cache\e58edd1b61671d80bb20bba69f6721ebbed2789b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hanifan\.android\build-cache\07eab993d784172409237d207731375024a19b9b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hanifan\.android\build-cache\960c932d2446166ba4d85e950f56875baef1675f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.hanifanm.gunung.criminalintent.CrimeListActivity
+ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:13:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.hanifanm.gunung.criminalintent.CrimePagerActivity
+ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:20:9-24:20
+	android:label
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:22:13-45
+	android:parentActivityName
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:23:13-60
+	android:name
+		ADDED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml:21:13-47
+uses-sdk
+INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hanifan\.android\build-cache\0bad42fcbd048128c0a778e42aca702923cebe52\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hanifan\.android\build-cache\f50e202e373a1fc659883b79c799c50a12151577\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hanifan\.android\build-cache\ec8d1fbe396dff7c2744453d1f046adbbbb8fa35\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\hanifan\.android\build-cache\86131719d389d147040640abcb7903da6fb7ad0d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hanifan\.android\build-cache\5b0a16516fb5833c2782517dc2d281ce0e35ed50\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hanifan\.android\build-cache\34ee093747a93822500c4d39233dcf678ccce053\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hanifan\.android\build-cache\ff52d32494d63572bdbf788469b92d704ecb1b94\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hanifan\.android\build-cache\e58edd1b61671d80bb20bba69f6721ebbed2789b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\hanifan\.android\build-cache\5ff7a641233717fee15afde39e09dda8fd8c87c8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hanifan\.android\build-cache\07eab993d784172409237d207731375024a19b9b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hanifan\.android\build-cache\960c932d2446166ba4d85e950f56875baef1675f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hanifan\.android\build-cache\0bad42fcbd048128c0a778e42aca702923cebe52\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hanifan\AndroidStudioProjects\CriminalIntent\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hanifan\.android\build-cache\0bad42fcbd048128c0a778e42aca702923cebe52\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hanifan\.android\build-cache\f50e202e373a1fc659883b79c799c50a12151577\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hanifan\.android\build-cache\ec8d1fbe396dff7c2744453d1f046adbbbb8fa35\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hanifan\.android\build-cache\5b0a16516fb5833c2782517dc2d281ce0e35ed50\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hanifan\.android\build-cache\34ee093747a93822500c4d39233dcf678ccce053\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hanifan\.android\build-cache\ff52d32494d63572bdbf788469b92d704ecb1b94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hanifan\.android\build-cache\e58edd1b61671d80bb20bba69f6721ebbed2789b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\hanifan\.android\build-cache\5ff7a641233717fee15afde39e09dda8fd8c87c8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hanifan\.android\build-cache\07eab993d784172409237d207731375024a19b9b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hanifan\.android\build-cache\960c932d2446166ba4d85e950f56875baef1675f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hanifan\.android\build-cache\0bad42fcbd048128c0a778e42aca702923cebe52\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hanifan\.android\build-cache\0bad42fcbd048128c0a778e42aca702923cebe52\output\AndroidManifest.xml:26:9-47
